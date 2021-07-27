@@ -1,0 +1,18 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background: linear-gradient(0deg, #F7F7F8, #F7F7F8);
+}
+
+
+.sidecat {
+    position: absolute;
+    left: 182px;
+    top: 413px;
+}
+
+.sideellips {
+    position: absolute;
+    left: -200px;
+    top: 356px;
+}
+
